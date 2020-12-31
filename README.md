@@ -1,5 +1,5 @@
 # node-ejs-boilerplate
-I have Node Express JS Starer kit with bootstrap and sass
+I have created Node Express JS Starer kit with bootstrap and sass
 
 ## Installation
 In the project directory, you can run:
