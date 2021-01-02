@@ -5,7 +5,6 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon ./app.js",
-    "sass": "node-sass -w sass -o public/css",
     "start": "node app.js"
   },
   "author": "rocky tech tips",
