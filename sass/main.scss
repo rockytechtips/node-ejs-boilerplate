@@ -1,0 +1,7 @@
+$theme-colors: (
+  "primary": #6858f5,
+  "secondary": #9d93f1,
+);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "./custom.scss"; 
