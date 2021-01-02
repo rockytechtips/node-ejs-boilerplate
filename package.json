@@ -8,7 +8,7 @@
     "sass": "node-sass -w sass -o public/css",
     "start": "node app.js"
   },
-  "author": "",
+  "author": "rocky tech tips",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.3",
